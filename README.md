@@ -1,6 +1,6 @@
 # lambdatest_rajesh
 README
-PlayWright101TaskAssingment_Riya
+Lambdatest_rajesh
 playwright 101 certification task 2 assignment
 
 Assignment_PW101
@@ -9,9 +9,9 @@ Assignment_PW101
 Clone the Assignment-PW101 repository on your system.
 
  git clone https://github.com/rajesh7671/lambdatest_rajesh
-Navigate to PlayWright101TaskAssingment_Riya
 
- cd PlayWright101TaskAssingment_Riya
+
+cd lambdatest_rajesh
 Install the dependencies:
 
 npm install
